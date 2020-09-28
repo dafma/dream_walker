@@ -1,3 +1,3 @@
 # Rental App
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/dafma/dream_walker/blob/master/Screens/rentalApp.jpeg)
 
